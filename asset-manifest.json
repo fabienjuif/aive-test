@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aive-test/static/css/main.1f942147.css",
+    "main.js": "/aive-test/static/js/main.2272b64c.js",
+    "static/js/787.0474834d.chunk.js": "/aive-test/static/js/787.0474834d.chunk.js",
+    "index.html": "/aive-test/index.html",
+    "main.1f942147.css.map": "/aive-test/static/css/main.1f942147.css.map",
+    "main.2272b64c.js.map": "/aive-test/static/js/main.2272b64c.js.map",
+    "787.0474834d.chunk.js.map": "/aive-test/static/js/787.0474834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f942147.css",
+    "static/js/main.2272b64c.js"
+  ]
+}
