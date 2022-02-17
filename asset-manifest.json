@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aive-test/static/css/main.1f942147.css",
-    "main.js": "/aive-test/static/js/main.51197815.js",
+    "main.js": "/aive-test/static/js/main.cddc9d4f.js",
     "static/js/787.0474834d.chunk.js": "/aive-test/static/js/787.0474834d.chunk.js",
     "index.html": "/aive-test/index.html",
     "main.1f942147.css.map": "/aive-test/static/css/main.1f942147.css.map",
-    "main.51197815.js.map": "/aive-test/static/js/main.51197815.js.map",
+    "main.cddc9d4f.js.map": "/aive-test/static/js/main.cddc9d4f.js.map",
     "787.0474834d.chunk.js.map": "/aive-test/static/js/787.0474834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f942147.css",
-    "static/js/main.51197815.js"
+    "static/js/main.cddc9d4f.js"
   ]
 }
